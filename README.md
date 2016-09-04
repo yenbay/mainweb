@@ -1,2 +1,2 @@
 # mainweb
-spring-springmvc-mybatis
+myproject
